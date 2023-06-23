@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQRVRYDC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Handheld_Terminal_V2\Design Rule Check - HandHeld_Terminal_V2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
