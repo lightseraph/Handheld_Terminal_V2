@@ -1,0 +1,26 @@
+Board Information Report
+Filename     : C:\project\Handheld_Terminal_V2\HandHeld_Terminal_V2.PcbDoc
+Date         : 2023/7/8
+Time         : 22:11:48
+Time Elapsed : 00:00:00
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 382, 0, 659, 0, 0, 10, 0
+    GND_02, 4, 0, 0, 13, 0, 0, 22, 0
+    PWR_03, 4, 0, 0, 12, 0, 0, 2, 0
+    Bottom Layer, 0, 2, 0, 94, 0, 0, 5, 0
+    Mechanical 1, 4, 0, 0, 46, 3, 0, 0, 0
+    Mechanical 13, 6, 0, 0, 25, 0, 0, 0, 126
+    Mechanical 15, 112, 0, 0, 267, 0, 0, 0, 0
+    Mechanical 16, 3, 0, 0, 30, 0, 0, 0, 0
+    Multi-Layer, 0, 26, 246, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 20, 0, 0, 909, 244, 0, 18, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 4, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 18
